@@ -82,7 +82,7 @@ const Index: NextPage = () => {
 	return (
 		<>
 			<Head>
-				<title>Prince Browser</title>
+				<title>Cool Browser</title>
 			</Head>
 			<div style={{ margin: 20 }}>
 				{firebaseStorage ? (
@@ -104,7 +104,7 @@ const Index: NextPage = () => {
 						</Typography>
 						<Card>
 						<Typography>
-							No coolguy allowed and this is a remix of the real owner but i hope yall like this its the same tho&gt;:(
+							Hack
 						</Typography>
 						<Typography style={{fontSize: 10}}>V.2</Typography>
 						This message was brought to you by
