@@ -97,7 +97,7 @@ const Index: NextPage = () => {
 					<>
 						<Typography variant="h4">
 							Code.org Data Browser and Editor
-							<Link style={{marginLeft: 20}} href="https://github.com/jitdummy/data-browser"><GitHubIcon/></Link>
+							<Link style={{marginLeft: 20}} href="https://github.com/coolcool5/data-browser"><GitHubIcon/></Link>
 						</Typography>
 						<Typography>
 							Type in the code.org app{"'"}s id at the top of the page to start!
