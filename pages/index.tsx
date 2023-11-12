@@ -104,11 +104,11 @@ const Index: NextPage = () => {
 						</Typography>
 						<Card>
 						<Typography>
-							Hack
+							Hacking
 						</Typography>
 						<Typography style={{fontSize: 10}}>V.2</Typography>
 						This message was brought to you by
-						<Link href="https://github.com/jitdummy">Prince</Link>
+						<Link href="https://github.com/coolcool5">cool</Link>
 						</Card>
 						<Input
 							fullWidth
